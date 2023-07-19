@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on some projects.
-- 🌱 I’m currently learning at ALX.
+- 🌱 I’m currently learning Node Js 
 - 👯 I’m looking to collaborate on web development and python projects.
 - 📫 idomakevin@gmail.com
